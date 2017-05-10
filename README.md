@@ -8,6 +8,7 @@ React 项目，模仿全民直播手机App,目前正在更新中
 --------------------------------------------
 ![](https://github.com/pandaClose/myHoney/raw/master/photo/1.gif)
 <br/>
+
 ![](https://github.com/pandaClose/myHoney/raw/master/photo/2.gif)
 <br/>
 本项目中使用
