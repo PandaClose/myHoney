@@ -1,0 +1,108 @@
+*{
+    margin:0;
+    padding: 0;
+    list-style: none;
+    font-family: 微软雅黑;
+}
+.vid{
+    width: 100%;
+    height:14.5rem;
+}
+.exit{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    z-index: 6;
+    font-size: 2rem;
+    left:.5rem;
+}
+.rellogo{
+    font-size: 1rem;
+    position: absolute;
+    left: 17rem;
+    top:1rem;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    opacity: .5;
+}
+.vid video{
+    width: 100%;
+    height: 100%;
+}
+.chat{
+    width: 100%;
+    height: 2rem;
+}
+.chat ul{
+    width: 100%;
+    height: 2rem;
+    border-bottom: 1px #e9e9e9 solid;
+    border-top:1px #e9e9e9 solid;
+}
+.chat ul li{
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+.chat ul .uu{
+    color:#f04442 ;
+    border-bottom: 1px #f04442 solid;
+}
+.chat ul li a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    text-align: center;
+    line-height: 200%;
+    color: #404040;
+}
+.chat ul li .guanzhu{
+    color:white;
+    background:#f04442;
+}
+.mid .content{
+    width: 100%;
+    height: 20.5rem;
+}
+.mid .content li{
+    margin-left: .3rem;
+    margin-bottom: .5rem;
+}
+.mid .content li .dengji{
+    background:yellow;
+    color: #000;
+}
+.mid .content li span{
+    color:cornflowerblue;
+}
+.mid .content .tishi{
+    font-size: .8rem;
+    height: 3rem;
+    line-height: 1.4rem;
+    color: #404040;
+    margin-left: .5rem;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
+.mid .content .tishi span{
+    color: white;
+    background: #f04442;
+}
+.say{
+    width: 100%;
+    height: 4rem;
+    text-align: center;
+    line-height: 4rem;
+    border-top: 1px #e9e9e9 solid;
+}
+.say input{
+    width: 80%;
+    height: 2.5rem;
+    border-radius: 1rem;
+    outline:none;
+    margin-right: .5rem;
+    background:whitesmoke;
+    border: 1px #e9e9e9 solid;
+}

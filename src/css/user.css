@@ -1,0 +1,144 @@
+#header{
+    width: 100%;
+    height: 15rem;
+    background: #f04442;
+    overflow: hidden;
+}
+.head-tit{
+    height: 2rem;
+    width: 100%;
+    padding-left: .4rem;
+}
+.head-l{
+    float: left;
+    line-height: 200%;
+    height: 100%;
+    color: white;
+}
+.head-r{
+    float: right;
+    margin-right: .6rem;
+    height: 100%;
+    line-height: 200%;
+}
+#header .iconfont{
+    font-size: 2rem;
+    color: white;
+}
+.head-mid{
+    width: 100%;
+    height: 10rem;
+}
+.head-mid dl{
+    width: 100%;
+    height: 100%;
+}
+.head-mid dl dt{
+    width: 100%;
+    height: 55%;
+    overflow: hidden;
+}
+.head-mid dl dt img{
+    width: 5rem;
+    height: 5rem;
+    border-radius:2.5rem;
+    margin-left: 9.4rem;
+    margin-top: .2rem;
+}
+.head-mid dl dd p {
+    width: 100%;
+    height:2rem;
+    color:whitesmoke;
+    text-align: center;
+    line-height: 200%;
+}
+.head-mid dl dd .name{
+    font-size: 1.3rem;
+}
+.head-mid dl dd .quanminnum{
+    background:#333333;
+    border-radius: .4rem;
+    opacity: .9;
+}
+.head-bot{
+    width: 100%;
+    height:3rem ;
+}
+.head-bot ul{
+    width: 100%;
+    height: 100%;
+}
+.head-bot ul li{
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+.head-bot ul li p {
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    line-height: 100%;
+    color: white;
+}
+aside{
+    overflow: hidden;
+    width: 100%;
+
+}
+aside .money{
+    width: 100%;
+    overflow: hidden;
+    padding-left: .4rem;
+}
+aside .money p{
+    width: 100%;
+    height: 2.3rem;
+    line-height: 200%;
+    font-size: 1.1rem;
+    color: #666666;
+    border-bottom:1px #e9e9e9 solid ;
+}
+aside .money p span{
+    float: left;
+}
+aside .money p a{
+    display: block;
+    float: right;
+    margin-right: 1rem;
+    width: 4rem;
+    height: 1.8rem;
+    border-radius: 1.5rem;
+    border: 1px #f04442 solid;
+    color:#f04442;
+    text-align: center;
+    text-decoration: none;
+}
+aside .money p .tixian{
+    float: right;
+    margin-right: 1.8rem;
+}
+.cut{
+    width: 100%;
+    height: 1rem;
+    background: #e9e9e9;
+}
+aside .set{
+    width: 100%;
+    overflow: hidden;
+    padding-left: .4rem;
+}
+aside .set p{
+    width: 100%;
+    height: 2.3rem;
+    line-height: 200%;
+    font-size: 1.1rem;
+    color: #666666;
+    border-bottom:1px #e9e9e9 solid ;
+}
+aside .set p .l{
+    float: left;
+}
+aside .set p .r{
+    float: right;
+    margin-right: 1.8rem;
+}

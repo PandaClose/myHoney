@@ -1,0 +1,60 @@
+header .mid span{
+    font-size: 1.3rem;
+}
+.nav{
+    padding-left: 0.5rem;
+    padding-right:0.5rem;
+    margin-top: 4rem;
+}
+.nav .title{
+    height: 2rem;
+    line-height: 2rem;
+}
+.nav .title .tit-l{
+    float: left;
+}
+.nav .title .tit-r{
+    float: right;
+    color: #666666;
+}
+.nav .box{
+    height: 9rem;
+    width: 50%;
+    float: left;
+}
+.nav .box .dt{
+    height: 80%;
+    width: 96%;
+    position: relative;
+}
+.nav .box .dt img{
+    width: 100%;
+    height: 100%;
+}
+.nav .box .dt span{
+    position: absolute;
+    bottom:.5rem;
+    left:0.2rem;
+    color: whitesmoke;
+    font-size: .8rem;
+}
+.nav .box .picName{
+    height: 20%;
+    width: 95%;
+}
+.pp{
+    height: 100%;
+    line-height: 100%;
+    overflow: hidden;
+}
+.p-left{
+    display: block;
+    height: 100%;
+    float: left;
+    line-height: 100%;
+}
+.p-right{
+    float: right;
+    font-size: .7rem;
+    color: #666666;
+}

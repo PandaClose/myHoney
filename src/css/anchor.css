@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: "微软雅黑";
+}
+.anchor{
+    width: 100%;
+    height: 25rem;
+}
+.anchor .anchorname{
+    width: 100%;
+    height: 6rem;
+    overflow: hidden;
+}
+.anchor .anchorname dl{
+    width: 100%;
+    height: 100%;
+}
+.anchorname dl dt,dd{
+    float: left;
+}
+.anchorname dl dt{
+    width: 6rem;
+    height: 100%;
+    margin-left: 1rem;
+    margin-top: .5rem;
+    margin-right: .7rem;
+}
+.anchorname dl dt img{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 2.5rem;
+}
+.anchorname dl dd .name{
+    height: 3rem;
+    line-height: 3rem;
+    font-size: 1.5rem;
+}
+.anchorname dl dd span{
+    height: 2rem;
+    line-height: 2rem;
+    color:#666666;
+    font-size: .95rem;
+}
+.anchorname dl dd span a{
+    text-decoration: none;
+    color:#000000;
+}
+.anchor .cutTime{
+    width: 100%;
+    height: .5rem;
+    background: #e9e9e9;
+}
+.notice{
+    width: 100%;
+    height: 5rem;
+}
+.anchor .notice p{
+    height: 2.8rem;
+    font-size: 1.2rem;
+    line-height: 2.8rem;
+    padding-left: 1rem;
+}
+.anchor .notice .con{
+    height: 2.2rem;
+    font-size: .9rem;
+    line-height: 2.2rem;
+    border-top: 1px #eeeeee solid;
+}
+.anchor .personal{
+    width: 100%;
+}
+.anchor .personal .tit{
+    height: 2rem;
+    padding-left: 1rem;
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+.anchor .personal li{
+    width: 100%;
+    height: 2.5rem;
+    font-size: .9rem;
+    padding-left: 1rem;
+    line-height: 2.5rem;
+    border-top: 1px #eeeeee solid;
+}
+.anchor .personal li .l{
+    float: left;
+}
+.anchor .personal li .r{
+    float: right;
+    margin-right: 2rem;
+}
+.anchor .personal  .last{
+    border-bottom: 1px #eeeeee solid;
+}
