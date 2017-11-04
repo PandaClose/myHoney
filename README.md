@@ -37,7 +37,8 @@ npm run bulid
 ```
 本项目预览
 -------------------------------------------------------
-[预览地址](https://pandaclose.github.io/myHoney/#/home?_blank) 请使用chrome浏览器的模拟器查看<br/>
+[预览地址](https://pandaclose.github.io/myHoney/#/home?_blank) <br/>
+请使用chrome浏览器的模拟器查看<br/>
 二维码地址：<br/>
 ![](https://github.com/pandaClose/myHoney/raw/master/photo/two.png)<br/>
 项目实现功能
