@@ -19,7 +19,7 @@ module.exports = {
       { test: /\.js$/, exclude:/node_modules/, loader: 'babel-loader'},
       {
         test: /\.(png|jpg|gif|svg)(\?.*)?$/,
-        loader: 'file-loader',
+        loader: 'url-loader?limit=8192',
         options: {
           name: '[name].[ext]?[hash]'
         }
