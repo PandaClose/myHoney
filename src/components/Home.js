@@ -56,22 +56,22 @@ class Home extends React.Component{
                 </header>
                 <div className="banner">
                     <ul className="clearfix">
-                        <li><img src="../src/img/user.png" alt=""/>
+                        <li><img src="src/img/user.png" alt=""/>
                             <div className="text-box">
                                 <h2>10345</h2>
                             </div>
                         </li>
-                        <li><img src="../src/img/user1.png" alt=""/>
+                        <li><img src="src/img/user1.png" alt=""/>
                             <div className="text-box">
                                 <h2>34556</h2>
                             </div>
                         </li>
-                        <li><img src="../src/img/user2.png" alt=""/>
+                        <li><img src="src/img/user2.png" alt=""/>
                             <div className="text-box">
                                 <h2>45678</h2>
                             </div>
                         </li>
-                        <li><img src="../src/img/user3.png" alt=""/>
+                        <li><img src="src/img/user3.png" alt=""/>
                             <div className="text-box">
                                 <h2>12674</h2>
                             </div>

@@ -17,7 +17,7 @@ class User extends React.Component{
                     <div className="head-mid">
                         <dl>
                             <dt>
-                                <img src="../src/img/logo.png" alt=""/>
+                                <img src="src/img/logo.png" alt=""/>
                             </dt>
                             <dd>
                                 <p className="name">

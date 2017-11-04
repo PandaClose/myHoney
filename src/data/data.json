@@ -1,7 +1,7 @@
 [{
   "id":1,
   "title":"全民倒数第一主播",
-  "url":"../src/img/game1.png",
+  "url":"src/img/game1.png",
   "name":"全民超人小智",
   "person":"224.5万",
   "portrait":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1493370288163&di=753aef15a430005a007366b52abf004f&imgtype=0&src=http%3A%2F%2Fawb.img.xmtbang.com%2Fimg%2Fuploadnew%2F201510%2F23%2F218abb8ece274c3eb531dcb1af98a520.jpg"
@@ -9,77 +9,77 @@
 },{
   "id":2,
   "title":"嘻嘻有人吗",
-  "url":"../src/img/game2.png",
+  "url":"src/img/game2.png",
   "name":"喵仔",
   "person":"1473",
   "portrait":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1493370342343&di=b98785c7234f6cd5a5c5b329da827e97&imgtype=0&src=http%3A%2F%2Fwww.zbjdyw.com%2Fqqwebhimgs%2Fuploads%2Fbd24213060.jpg"
 },{
   "id":3,
   "title":"hi",
-  "url":"../src/img/game3.png",
+  "url":"src/img/game3.png",
   "name":"允儿允儿",
   "person":"2.1万",
   "portrait":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1493370342342&di=a006fcbc70a6500856eee84b3ef0a352&imgtype=0&src=http%3A%2F%2Fup.qqya.com%2Fallimg%2F201710-t%2F17-101802_77286.jpg"
 },{
   "id":4,
   "title":"hi,想我了吗",
-  "url":"../src/img/game4.png",
+  "url":"src/img/game4.png",
   "name":"全民阿乐",
   "person":"4.3万",
   "portrait":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1493370342342&di=e4c297ff34aa2bf4116eef5a518521f6&imgtype=0&src=http%3A%2F%2Fk2.jsqq.net%2Fuploads%2Fallimg%2F1704%2F7_170422145515_6.jpg"
 },{
   "id":5,
   "title":"我来玩玩HIZI游戏",
-  "url":"../src/img/fun1.png",
+  "url":"src/img/fun1.png",
   "name":"全民麒麟臂",
   "person":"4.3万",
   "portrait":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1493370342342&di=f827b7c0e4bf42df5945fdef03903c55&imgtype=0&src=http%3A%2F%2Fv1.qzone.cc%2Favatar%2F201408%2F03%2F23%2F44%2F53de58e5da74c247.jpg%2521200x200.jpg"
 },{
   "id":6,
   "title":"智哥今天休息",
-  "url":"../src/img/fun2.png",
+  "url":"src/img/fun2.png",
   "name":"全民小龙",
   "person":"97万",
   "portrait":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1493370342341&di=8a2f1eb6d90ece2aae013567df71f4d3&imgtype=0&src=http%3A%2F%2Fimg.name2012.com%2Fuploads%2Fallimg%2F120916%2F16-093538_227.jpg"
 },{
   "id":7,
   "title":"我最讨厌你了",
-  "url":"../src/img/fun3.png",
+  "url":"src/img/fun3.png",
   "name":"全民冰心",
   "person":"43万",
   "portrait":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1493370342341&di=9c20777b651f46ec07befc462d23c582&imgtype=0&src=http%3A%2F%2Fwww.qqbody.com%2Fuploads%2Fallimg%2F201401%2F09-045302_580.jpg"
 },{
   "id":8,
   "title":"我是大嘴猴",
-  "url":"../src/img/fun4.png",
+  "url":"src/img/fun4.png",
   "name":"全民阿怡",
   "person":"88万",
   "portrait":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1493370342341&di=b0e65a74dabbeb1c22502f80994312dd&imgtype=0&src=http%3A%2F%2Fimg.cnjiayu.net%2F3211573049-3310678237-21-0.jpg"
 },{
   "id":9,
   "title":"我来",
-  "url":"../src/img/user.png",
+  "url":"src/img/user.png",
   "name":"全民啦啦",
   "person":"4.3万",
   "portrait":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1493370342340&di=06a3e47fa86e689158dcf4ef59cbc276&imgtype=0&src=http%3A%2F%2Fup.qqya.com%2Fallimg%2F201710-t%2F17-101802_85741.jpg"
 },{
   "id":10,
   "title":"跳跳舞",
-  "url":"../src/img/user1.png",
+  "url":"src/img/user1.png",
   "name":"从全单",
   "person":"97万",
   "portrait":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1493370342340&di=4b6743d863dadd09f47c6e05c9055b5b&imgtype=0&src=http%3A%2F%2Fwww.hdjzsb.com%2Fstyle%2Fimages%2Fbd13619078.jpg"
 },{
   "id":11,
   "title":"我美吗",
-  "url":"../src/img/user2.png",
+  "url":"src/img/user2.png",
   "name":"大力哥",
   "person":"43万",
   "portrait":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1493370342339&di=fea32d254f82d38fe2866ccf54abb0ba&imgtype=0&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201507%2F22%2F20150722075234_LBKyc.jpeg"
 },{
   "id":12,
   "title":"爱你爱你",
-  "url":"../src/img/user3.png",
+  "url":"src/img/user3.png",
   "name":"帝师",
   "person":"120万",
   "portrait":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1493370342339&di=05401f9c59b6107e54207c7dafa0edad&imgtype=0&src=http%3A%2F%2Fm.vstou.com%2Fimg%2F201512%2Flm1_5.jpg"
