@@ -48,7 +48,7 @@ class Home extends React.Component{
                         <i className="iconfont icon-search"></i>
                     </div>
                     <div className="mid">
-                        <img src="../src/img/logo.png" alt=""/>
+                        <img src="src/img/logo.png" alt=""/>
                     </div>
                     <div className="right">
                         <i className="iconfont icon-mail"></i>
