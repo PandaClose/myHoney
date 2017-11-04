@@ -17,7 +17,7 @@ module.exports = {
     loaders: [
       { test: /\.jsx$/, exclude: /node_modules/, loader: 'jsx-loader!babel-loader' },
       { test: /\.js$/, exclude:/node_modules/, loader: 'babel-loader'},
-      {test: /\.(jpg|png)$/, loader: "url?limit=8192"},
+      {test: /\.(jpg|png)$/, loader: "file-loader"},
       {test: /\.css$/, loader: "style-loader!css-loader"}, // 把多个css压缩到一个css中。
     ]
   },
