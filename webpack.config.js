@@ -10,6 +10,7 @@ module.exports = {
   output: {
     path: path.join(__dirname, 'build'),
     publicPath: "dist/",
+    assetsPublicPath: '/',  
     filename: '[name].js'
   },
   // 新添加的module属性
