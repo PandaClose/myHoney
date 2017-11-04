@@ -10,7 +10,7 @@
 }
 .exit{
     text-decoration: none;
-    color: white;
+    color: #000;
     position: absolute;
     z-index: 6;
     font-size: 2rem;
